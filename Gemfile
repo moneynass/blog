@@ -8,6 +8,7 @@ end
 # Gemfile
 gem 'bootstrap-sass'
 gem 'simple_form'
+gem 'figaro'
 ruby '2.4.3'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
